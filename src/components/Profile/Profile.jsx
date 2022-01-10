@@ -1,4 +1,5 @@
 import PropTypes from "prop-types";
+// import Container from
 
 const Profile = (user) => {
   const { username, tag, location, avatar, stats } = user;
